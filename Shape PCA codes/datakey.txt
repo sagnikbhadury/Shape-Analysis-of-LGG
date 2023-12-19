@@ -1,0 +1,69 @@
+1: bone
+2: comma
+3: cup (shape 4 bad)
+4: half circle
+5: heart
+6: misk
+7: apple
+8: bat
+9: beetle
+10: bell
+11: bird
+12: bottle
+13: brick
+14: butterfly
+15: camel
+16: car
+17: carriage
+18: cattle
+19: cell phone
+20: chicken (shapes 1 and 4 bad)
+21: child
+22: chopper
+23: classic car
+24: crown
+25: cup
+26: deer
+27: flower 5 petals
+28: flower 6 petals
+29: flower 7 petals
+30: four corners
+31: three corners
+32: cross
+33: five corners
+34: flower 10 petals
+35: letter T
+36: circle
+37: dog
+38: elephant
+39: face
+40: fish 1
+41: fish 2
+42: fly
+43: fork
+44: fountain
+45: guitar
+46: hammer
+47: hat
+48: horse
+49: horseshoe
+50: jar
+51: key
+52: lizard
+53: fish 3
+54: octopus
+55: pencil
+56: personal car
+57: pocket
+58: mouse (shape 9 bad)
+59: stingray
+60: sea snake
+61: shoe
+62: spoon
+63: spring
+64: runner (shape 9 bad)
+65: teddy bear
+66: tree
+67: truck
+68: turtle
+69: watch
